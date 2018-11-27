@@ -1,0 +1,2 @@
+Input string: The best preparation for tomorrow is doing your best today.
+Number of consonants: 30
